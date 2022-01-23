@@ -9,4 +9,246 @@
       padding: 0;
       overflow-x: hidden;
     }
+    nav{
+        background: url(./images/body.png) no-repeat;
+        background-repeat: no-repeat;
+        min-height: 100px;
+        width: 100%;
+        background-size: cover;
+        
+      
+        
+      }
+      
+    
+      
+      #middle{
+        height: 200;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: azure;
+      }
+      #description{
+        height:1150px;
+        margin-left: auto;
+        margin-right: auto;
+    
+        background-color: white;
+    
+      }
+      
+      .art {
+        height: 400px;
+        background-color: azure;
+        
+    
+      
+      }
+      .art h1{
+        margin-left: 200px;
+     
+      }
+      .art p{
+        margin-left: 200px;
+      }
+        
+      .dot1{
+        margin-left: 200px;
+        margin-top: -200px;
+        background-color: #ff9e1f;
+        border-radius: 50%;
+        width: 17px;
+        height: 17px;
+      
+    
+      }
+      .dot2{
+        margin-left: 250px;
+        margin-top: -16px;
+        background-color: lightgrey;
+        border-radius: 50%;
+        width: 17px;
+        height: 17px;
+      
+    
+      }
+      .dot3{
+        margin-left: 300px;
+        margin-top: -17px;
+        background-color: lightgrey;
+        border-radius: 50%;
+        width: 17px;
+        height: 17px;
+      
+    
+      }
+     
+     .contact{
+       background-color: azure;
+       height: 200px;
+    
+     }
+      .frame ul li{
+          float: right;
+          margin right: 10px auto;
+          width: 80px;
+          list-style-type: none;
+          margin-right: 10x;
+        
+          
+      }
+      .text{
+         margin-top: 170px;
+         width: 600px;
+         margin-left: 40px;
+         font-size: 25px;
+      }
+      .text h1{
+        margin-left: 50px;
+      }
+      nav ul{
+        float: right;
+        margin-right: 15px;
+    
+    
+      }
+      nav ul li{
+        display: inline-block;
+      }
+      a{
+        color: black;
+        margin-right: 60;
+        border-radius: 4px;padding: 5px;
+        font-size: 20px;
+        text-decoration: none;
+      }
+      h2{
+        margin-top: 10px;
+      }
+      .left{
+        display: flex;
+        background-color: red;
+      }
+     .logo{
+      margin-top: 15px;
+     
+     }
+     .col{
+       color: #ff9e1f;
+      
+     }
+     label.coll{
+       margin-top: 50px;
+       color: black;
+     }
+     .btn{
+      background-color: #F6B400;
+    
+      width: 260;
+      height: 200;
+      border-radius: 1.7em;
+      font-size: 30px;
+      font font-weight: 100px;
+      font-family: 'Poppins', sans-serif;
+      color: white;
+    
+    
+     }
+     .btn:hover{
+       color: wheat;
+     }
+     .right{
+       height: 150;
+       width: 150;
+       text-align: right;
+      margin-right: 250px;
+    
+     }
+     h2{
+      margin-left: 50px;
+     }
+     p{
+       margin-left: 50px;
+     }
+     .btn{
+       margin-left: 50px;
+       background-color: #ff9e1f;
+       margin-bottom: 40px;
+     }
+     .box1{
+       height: 330px;
+       width: 250px;
+       border: 1px solid black;
+       margin-left: 40px;
+       text-align: center;
+       display: inline-block;
+       border-radius: 20px;
+      text-align: center;
+      
+      
+       
+     }
+     .box2{
+        height: 380px;
+        width: 250px;
+        border: 1px solid black;
+        margin-left: 20px;
+        text-align: center;
+        display: inline-block;
+        border-radius: 20px;
+        
+      }
+     .box3{
+      height: 330px;
+      width: 250px;
+      border: 1px solid black;
+      margin-left: 20px;
+      text-align: center;
+      display: inline-block;
+      border-radius: 20px;
+     
+    }
+    
+    
+    .decker{
+      color:#ff9e1f;
+      font-size: 50px;
+      margin-left: 15px;
+    }
+    h3{
+      font-size: 50px;
+      margin-left: 50px;
+      
+    
+    }
+    .image6{
+      margin-right: 350px;
+      text-align: right;
+      
+      
+    }
+    .mobile{
+      background-color: #ff9e1f;
+      height: 400px;
+      
+    }
+    
+    .mobile1{
+      margin-left: 500px;
+      margin-top: 300px;
+      margin-top: -100px;
+    }
+    .mobile2{
+      margin-right: 10px;
+      margin-left: 800px;
+      margin-top: -300px;
+      
+    }
+    .logo2{
+      padding: 50px;
+    }
+    .line{
+      color: #ff9e1f;
+      
+    }
     
