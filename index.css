@@ -229,21 +229,29 @@
       
       
     }
+    .map1{
+      margin-left: 150px;
+      margin-top: 30;
+    }
+    .map2{
+      margin-left: 330px;
+      margin-top: -55px;
+    }
     .mobile{
       background-color: #ff9e1f;
-      height: 400px;
+      height: 600px;
       
     }
     
     .mobile1{
-      margin-left: 500px;
+      margin-left: 550px;
       margin-top: 300px;
       margin-top: -100px;
     }
     .mobile2{
       margin-right: 10px;
-      margin-left: 800px;
-      margin-top: -300px;
+      margin-left: 900px;
+      margin-top: -400px;
       
     }
     .logo2{
