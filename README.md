@@ -20,6 +20,6 @@ https://github.com/JOSEPHMAINA1995/MyFirst_project
 1. CSS
 1. Git
 ### Live Site
-View [Live] https://github.com/JOSEPHMAINA1995/MyFirst_project
+View [Live] https://josephmaina1995.github.io/MyFirst_project/
 ### Licence
 This project is under the  [MIT](license) license
